@@ -1,0 +1,34 @@
+[metadata]
+Name=[L] Lands
+[Main]
+1 Bayou|3ED
+4 Crop Rotation|ULG
+4 Dark Depths|CSP
+4 Exploration|USG
+1 Forest|SOI|1
+4 Gamble|EMA
+1 Glacial Chasm|ICE
+4 Grove of the Burnwillows|FUT
+4 Life from the Loam|MMA
+2 Manabond|EXO
+3 Maze of Ith|EMA
+1 Misty Rainforest|ZEN
+4 Mox Diamond|STH
+3 Punishing Fire|ZEN
+4 Rishadan Port|MMQ
+2 Taiga|3ED
+1 The Tabernacle at Pendrell Vale|LEG
+4 Thespian's Stage|GTC
+2 Tranquil Thicket|ONS
+1 Verdant Catacombs|ZEN
+4 Wasteland|EMA
+1 Windswept Heath|KTK
+1 Wooded Foothills|KTK
+[Sideboard]
+1 Abrupt Decay|RTR
+1 Bojuka Bog|WWK
+3 Krosan Grip|MMA
+1 Pithing Needle|RTR
+3 Sphere of Resistance|EXO
+4 Thoughtseize|THS
+2 Tireless Tracker|SOI

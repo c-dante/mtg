@@ -1,0 +1,34 @@
+[metadata]
+Name=[L] Reanimator
+[Main]
+4 Abrupt Decay|RTR
+4 Ancestral Vision|TSP
+3 Baleful Strix|EMA
+2 Bayou|3ED
+4 Brainstorm|EMA
+2 Creeping Tar Pit|WWK
+4 Deathrite Shaman|EMA
+4 Force of Will|EMA
+2 Jace, the Mind Sculptor|EMA
+1 Maelstrom Pulse|MMA
+2 Misty Rainforest|ZEN
+4 Polluted Delta|KTK
+4 Shardless Agent|EMA
+1 Swamp|SOI|1
+4 Tarmogoyf|MM2
+2 Thoughtseize|THS
+1 Toxic Deluge|EMA
+2 Tropical Island|3ED
+3 Underground Sea|3ED
+4 Verdant Catacombs|ZEN
+3 Wasteland|EMA
+[Sideboard]
+1 Baleful Strix|EMA
+1 Disfigure|ZEN
+2 Grafdigger's Cage|DKA
+2 Hymn to Tourach|EMA
+1 Maelstrom Pulse|MMA
+2 Pithing Needle|RTR
+2 Sylvan Library|EMA
+1 Thoughtseize|THS
+1 Toxic Deluge|EMA
